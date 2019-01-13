@@ -1,0 +1,12 @@
+PROGRAM bogdan 
+VAR a,b,i:INTEGER;
+BEGIN
+a:=5;
+FOR i:=0 TO 5 DO
+BEGIN
+READ(b);
+READ(b);
+END;
+READ(a);
+WRITE(a);
+END.
